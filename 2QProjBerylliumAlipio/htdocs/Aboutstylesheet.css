@@ -1,0 +1,68 @@
+
+     #abouttitle {
+	         display: inline-block;
+             font-size: 50px;
+			 color: black;
+			 text-align: center;
+			 position: relative;
+			 left: 100px;
+			 top: 20px;
+			 }
+			 
+      div a {
+		     text-decoration:none;
+			 }
+			 
+		 html {
+		       z-index:0;
+			   }
+			   
+		#newsbar {
+		         position:absolute;
+				 top:8px;
+				 height:100px;
+				 width:100px;
+				 <!--more-->
+				}
+				
+	     #content {
+		           position:relative;
+				   top:100px;
+		           margin-left: auto;
+				   margin-right: auto;
+				   border:solid black;
+				   width:750px;
+				   height:500px;
+				   }
+		 #ads {
+		       border:solid black;
+		       position: fixed;  
+			   bottom: 15px;
+			   margin-left:30%;
+			   width:800px;
+			   height:50px;
+			   }
+		 #thing {
+		         height:65px; 
+				 border: solid black; 
+				 margin-left:206px;
+				 }
+   
+         #aboutcontent {
+		                position:relative;
+						left: 100px;
+						}
+						
+		 .video {
+		         position: relative;
+				 left: 100px;
+				 
+
+
+
+
+
+
+
+
+
